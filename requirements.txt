@@ -13,7 +13,7 @@ h11==0.14.0
 htmldate==1.8.0
 httpcore==1.0.5
 httpx==0.27.0
-idna==3.6
+idna==3.7
 jusText==3.0.0
 langcodes==3.3.0
 lxml==5.1.1
@@ -23,7 +23,7 @@ pydantic_core==2.16.3
 python-dateutil==2.9.0.post0
 pytz==2024.1
 regex==2023.12.25
-requests==2.31.0
+requests==2.32.0
 requests-file==2.0.0
 six==1.16.0
 sniffio==1.3.1
@@ -31,7 +31,7 @@ sse-starlette==2.0.0
 starlette==0.37.2
 tld==0.13
 tldextract==5.1.2
-tqdm==4.66.2
+tqdm==4.66.3
 trafilatura==1.8.1
 typing_extensions==4.10.0
 tzlocal==5.2
